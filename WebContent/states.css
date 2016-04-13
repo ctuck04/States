@@ -1,0 +1,37 @@
+body {
+	
+	background-image: url("lib/country.jpg");
+	background-size: 1300px 825px;
+	background-repeat: no repeat;
+}
+
+li {
+	color: white;
+	
+}
+
+h3 {
+	color: white;
+}
+
+a{
+	color: #00ffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow;
+	
+}
+
+ul {
+    list-style-type: none;
+}
+
+form {
+	color: white;
+}
+
+p {
+	color:white;
+}
